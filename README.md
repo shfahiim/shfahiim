@@ -1,5 +1,6 @@
 ### Featured Projects
 
+- [eventifybd](https://eventifybd.com) - Community-driven calendar for events, hackathons, and CTFs in Bangladesh.
 - [agentslide](https://github.com/shfahiim/agentslide) - AI Agent for making beautiful slides.
 - [tofreedium](https://github.com/shfahiim/tofreedium) - Lightweight browser extension to bypass Medium paywall.
 - [rag-console](https://github.com/shfahiim/rag-console) - RAG (Retrieval-Augmented Generation) application.
